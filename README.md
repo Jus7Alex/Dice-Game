@@ -6,5 +6,5 @@
 Game Rules:
 
   1. First player who reaches 100 pts gets to win.
-  2. Whoever rolls a 1 loses all acumulated points.
+  2. Whoever rolls a 1 loses all acumulated points and the right to roll more dices.
  
